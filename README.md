@@ -5,6 +5,9 @@
 - 💞️ I’m looking forward to collaborate on many useful open source projects and share my knowledge here!
 - 📫 How to reach me: mattia.rizzo.un@gmail.com or [Linkedin](https://www.linkedin.com/in/rizzo-mattia/)
 
+## Check my Blog
+- https://techmatt.bearblog.dev/
+
 ## Future Projects Ideas (beware, you can steal them!!)
 - https://jrdngr.github.io/pngme_book/introduction.html
 - Continue working on RISC-V Cpu
