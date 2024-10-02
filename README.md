@@ -11,6 +11,7 @@
 ## Future Projects Ideas (beware, you can steal them!!)
 - https://jrdngr.github.io/pngme_book/introduction.html
 - Continue working on RISC-V Cpu
+- Implement your RISC-V CPU on a real board
 - Learn more about OS in C/C++
 - Write an interpreter / compiler in Rust or C for your RISC-V cpu
 - https://www.flenker.blog/hecto/
