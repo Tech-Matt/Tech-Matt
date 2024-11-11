@@ -10,6 +10,7 @@
 
 ## Future Projects Ideas (beware, you can steal them!!)
 - https://jrdngr.github.io/pngme_book/introduction.html
+- Make an AI thumbnail generator in Rust or Python that takes a video and generates a captivating thumbnail from it
 - Continue working on RISC-V Cpu
 - Implement your RISC-V CPU on a real board
 - Learn more about OS in C/C++
