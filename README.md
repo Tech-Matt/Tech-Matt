@@ -8,8 +8,7 @@
 
 ## 🧬 About Me
 - 👨‍💻 Driver and Firmware Development Enthusiast
-- 🖥️ OS Programming Explorer
-- 🤖 Data Science & AI Curious Mind
+- 🖥️ OS / Kernel Programming is cool
 - 🎓 Computer Engineering Student in Italy
 - 🌟 Open source is the best thing ever done by mankind
 
