@@ -6,26 +6,8 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C68F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+%40Tech-Matt+(Mattia+Rizzo);Hardware+And+Firmware+Engineer;Low-Level+Programming+Enthusiast)
 </div>
 
-## 🧬 About Me
-- 👨‍💻 Driver and Firmware Development Enthusiast
-- 🖥️ OS / Kernel Programming is cool
-- 🎓 Computer Engineering Student in Italy
-- 🌟 Open source is the best thing ever done by mankind
-
-## 🔮 Future Projects Ideas (beware, you can steal them!!)
-<details>
-<summary>Click to expand my project ideas!</summary>
-
-### 📚 Learning Projects
-- [📖 PNG Message Encoder](https://jrdngr.github.io/pngme_book/introduction.html)
-- [✍️ Text Editor Journey](https://www.flenker.blog/hecto/)
-
-### 🛠️ Development Goals
-- 🎨 AI Thumbnail Generator (Rust/Python)
-- 🔧 RISC-V CPU Development & Implementation
-- 💻 Deep Dive into OS Development (C/C++)
-- 🎯 Custom Interpreter/Compiler (Rust/C)
-- ⚔️ Todo App: Rust vs C++
+## About Me
+I am a simple human being deeply in love with engineering. I am fascinated by complex systems like Linux, CPUs, Digital Circuits, FPGAs, and much more. I basically spend most of my free time (and work time haha) exploring these complex architectures, trying to grasp just even 1% of them, and I love it. :)
 
 </details>
 
@@ -51,8 +33,8 @@
 
 <div align="center">
   
-### 🤝 Looking forward to collaborating on many useful open source projects and sharing knowledge here!
+### 🤝 Looking forward to collaborate on many useful open source projects and sharing knowledge here!
 
 </div>
 
-<!-- Last updated: 2024-12-25 -->
+<!-- Last updated: 2025-08-15 -->
