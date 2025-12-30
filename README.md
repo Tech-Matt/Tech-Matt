@@ -22,17 +22,7 @@ I am a simple human being deeply in love with engineering. I am fascinated by co
 
 ---
 <div align="center">
-  
-### 💡 What I'm Up To
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Matt&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-Matt&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
+    
 ### 🤝 Looking forward to collaborate on many useful open source projects and sharing knowledge here!
 
 </div>
