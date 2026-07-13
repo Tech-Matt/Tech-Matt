@@ -2,9 +2,9 @@
 
 # ⚡ Hi, I'm Mattia Rizzo
 
-### I build and study computing systems from digital logic to software.
+### Here to build and experiment with computing systems from hardware to software.
 
-`FPGA & RTL` · `Embedded C` · `Computer Architecture` · `Edge AI` · `Linux`
+`FPGA & RTL` · `Embedded C` · `Computer Architectures` · `Edge AI` · `Linux`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Rizzo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizzo-mattia/)
 [![Blog](https://img.shields.io/badge/Blog-TechMatt-222222?style=flat-square&logo=readme&logoColor=white)](https://techmatt.bearblog.dev/)
@@ -17,22 +17,24 @@
 
 ## About me
 
-I am an **Embedded Systems MSc student** who enjoys exploring what happens beneath software abstractions.
+Hello! :)
+
+I am an **Embedded Systems MSc student** who enjoys to understand how **low level systems** work, both hardware, or pure software ones.
 
 Most of my projects begin with the same question:
 
-> **How does this system actually work?**
+> **How does this work? How can I replicate / modify it?**
 
 That curiosity has led me to work on FPGA processors, low-level firmware, real-time systems, hardware measurement architectures, Linux utilities, TinyML applications, and, more recently, a Transformer inference engine written from scratch in C.
 
 I am especially interested in the boundary between **digital hardware and low-level software**: how architecture, memory, timing, and implementation choices shape the behaviour and performance of a system.
 
 > [!NOTE]
-> **Currently working on:** a Transformer inference engine in C for resource-constrained systems, while studying efficient AI inference, computer architecture, and FPGA-based acceleration.
+> **Currently working on:** a Transformer inference engine in C for resource-constrained systems, while studying efficient AI inference.
 
 ---
 
-## Featured project
+## My Projects
 
 <table>
 <tr>
@@ -40,11 +42,9 @@ I am especially interested in the boundary between **digital hardware and low-le
 
 ### Transformer Inference Engine
 
-A from-scratch Transformer inference engine written in C.
+A Transformer inference engine written from scratch in C.
 
-The goal is not only to reproduce the model mathematically, but to understand how inference behaves when abstractions are removed: tensor layouts, memory allocation, numerical operations, execution order, and performance trade-offs.
-
-The project is being developed with constrained and embedded systems in mind, with a longer-term interest in hardware-aware optimisation and acceleration.
+The goal is not only to reproduce the model mathematically, but to understand how the transformers inference process can be optimized to run on tiny embedded systems. In this regard, optimizations are made on: tensor layouts, memory allocation, numerical operations, execution order, and performance trade-offs.
 
 **What it involves**
 
@@ -260,6 +260,6 @@ You can also find me here:
 
 <div align="center">
 
-### Always learning, always building — one abstraction layer lower.
+### Per aspera ad astra.
 
 </div>
